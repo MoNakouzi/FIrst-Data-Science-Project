@@ -1,5 +1,5 @@
 # My First Data Science Project in Python
-## This is the first data science project I made in python (Jupyter Notebook) in which I analyzed a Wikipedia article about attempted prison escapes in different countries
+## This is the first data science project I made in python (Jupyter Notebook) in which I analyzed a Wikipedia article about attempted helicopter prison escapes in different countries
 
 The Wikipedia article is this <a target="_blank" href="https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes">list of helicopter prison escapes</a>.
 We analyze the data of attempted helicopter prison escape and answer the following questions:
