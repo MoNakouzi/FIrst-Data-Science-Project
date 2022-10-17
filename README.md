@@ -8,3 +8,5 @@ We analyze the data of attempted helicopter prison escape and answer the followi
  - Which escapee(s) have attempted a helicopter escape more than once?
  
 I make use of a helper file from which functions are imported, and I make use of charts and tables to represent the results in a readable fashion and be able to draw conclusions and answers from them.
+
+The analysis can be viewed in the DataAnalysis.ipynb file
